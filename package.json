@@ -1,0 +1,27 @@
+{
+  "name": "@anvil-for/react-calendar",
+  "version": "0.0.0",
+  "description": "Tools to create a calendar for React applications",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iklieshchov/-anvil-for-react-calendar.git"
+  },
+  "keywords": [
+    "react",
+    "calendar",
+    "ui",
+    "tools",
+    "anvil",
+    "box-ik"
+  ],
+  "author": "Ihor Klieshchov <ihor.klieshchov@gmail.com> (https://box-ik.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iklieshchov/-anvil-for-react-calendar/issues"
+  },
+  "homepage": "https://github.com/iklieshchov/-anvil-for-react-calendar#readme"
+}
